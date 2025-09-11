@@ -1,0 +1,2 @@
+# Cricket-Champions-Trophy-2025-Data-Base-Management-using-SQL
+Designed ,implemented a relational SQL database for CT 2025, covering team and player stats. with ER diagram, optimised the schema, and defined foreign key relationships to ensure data integrity. Populated tables with match data and used MySQL Workbench to execute complex queries for analytics, performance tracking and strategic insights.
