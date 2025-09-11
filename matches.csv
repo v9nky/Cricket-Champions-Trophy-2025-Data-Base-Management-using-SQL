@@ -1,0 +1,16 @@
+match_id,match_number,match_date,venue_id,team1_id,team2_id,winner_id,match_type,start_time
+1,1,2025-02-19,3,2,4,4,"Group Stage",14:30:00
+2,2,2025-02-20,4,3,1,1,"Group Stage",14:30:00
+3,3,2025-02-21,3,7,8,8,"Group Stage",14:30:00
+4,4,2025-02-22,1,5,6,5,"Group Stage",14:30:00
+5,5,2025-02-23,4,2,1,1,"Group Stage",14:30:00
+6,6,2025-02-24,2,3,4,4,"Group Stage",14:30:00
+7,7,2025-02-25,2,5,8,NULL,"Group Stage",14:30:00
+8,8,2025-02-26,1,7,6,7,"Group Stage",14:30:00
+9,9,2025-02-27,2,2,3,NULL,"Group Stage",14:30:00
+10,10,2025-02-28,1,7,5,NULL,"Group Stage",14:30:00
+11,11,2025-03-01,3,8,6,8,"Group Stage",14:30:00
+12,12,2025-03-02,4,4,1,1,"Group Stage",14:30:00
+13,13,2025-03-04,4,NULL,NULL,1,"Semi-Final 1",14:30:00
+14,14,2025-03-05,1,NULL,NULL,4,"Semi-Final 2",14:30:00
+15,15,2025-03-09,4,NULL,NULL,1,Final,14:30:00

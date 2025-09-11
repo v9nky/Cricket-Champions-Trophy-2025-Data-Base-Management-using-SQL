@@ -1,0 +1,118 @@
+player_id,team_id,player_name,role,batting_style,bowling_style,is_captain
+1,1,"Rohit Sharma (c)",Batsman,Right-handed,"Right-arm offbreak",1
+2,1,"Virat Kohli",Batsman,Right-handed,"Right-arm medium",0
+3,1,"KL Rahul",Wicketkeeper-Batsman,Right-handed,NULL,0
+4,1,"Rishabh Pant",Wicketkeeper-Batsman,Left-handed,NULL,0
+5,1,"Suryakumar Yadav",Batsman,Right-handed,"Right-arm medium",0
+6,1,"Hardik Pandya",All-rounder,Right-handed,"Right-arm fast-medium",0
+7,1,"Ravindra Jadeja",All-rounder,Left-handed,"Left-arm orthodox",0
+8,1,"Jasprit Bumrah",Bowler,Right-handed,"Right-arm fast",0
+9,1,"Mohammed Shami",Bowler,Right-handed,"Right-arm fast",0
+10,1,"Kuldeep Yadav",Bowler,Right-handed,"Left-arm wrist spin",0
+11,1,"Mohammed Siraj",Bowler,Right-handed,"Right-arm fast",0
+12,2,"Babar Azam (c)",Batsman,Right-handed,"Right-arm offbreak",1
+13,2,"Mohammad Rizwan",Wicketkeeper-Batsman,Right-handed,NULL,0
+14,2,"Fakhar Zaman",Batsman,Left-handed,"Slow left-arm orthodox",0
+15,2,Imam-ul-Haq,Batsman,Left-handed,NULL,0
+16,2,"Iftikhar Ahmed",All-rounder,Right-handed,"Right-arm offbreak",0
+17,2,"Shadab Khan",All-rounder,Right-handed,"Right-arm legbreak",0
+18,2,"Shaheen Afridi",Bowler,Left-handed,"Left-arm fast",0
+19,2,"Haris Rauf",Bowler,Right-handed,"Right-arm fast",0
+20,2,"Naseem Shah",Bowler,Right-handed,"Right-arm fast",0
+21,2,"Mohammad Nawaz",All-rounder,Left-handed,"Left-arm orthodox",0
+22,3,"Shakib Al Hasan (c)",All-rounder,Left-handed,"Left-arm orthodox",1
+23,3,"Litton Das",Wicketkeeper-Batsman,Right-handed,NULL,0
+24,3,"Najmul Hossain Shanto",Batsman,Left-handed,"Right-arm offbreak",0
+25,3,"Mushfiqur Rahim",Wicketkeeper-Batsman,Right-handed,NULL,0
+26,3,Mahmudullah,All-rounder,Right-handed,"Right-arm offbreak",0
+27,3,"Taskin Ahmed",Bowler,Right-handed,"Right-arm fast",0
+28,3,"Mustafizur Rahman",Bowler,Left-handed,"Left-arm fast-medium",0
+29,3,"Mehidy Hasan Miraz",All-rounder,Right-handed,"Right-arm offbreak",0
+30,3,"Towhid Hridoy",Batsman,Right-handed,"Right-arm offbreak",0
+31,3,"Afif Hossain",All-rounder,Left-handed,"Right-arm offbreak",0
+32,3,"Hasan Mahmud",Bowler,Right-handed,"Right-arm fast-medium",0
+33,3,"Shoriful Islam",Bowler,Left-handed,"Left-arm fast-medium",0
+34,3,"Nasum Ahmed",Bowler,Left-handed,"Left-arm orthodox",0
+35,3,"Tanzid Hasan Tamim",Batsman,Left-handed,NULL,0
+36,3,"Rishad Hossain",Bowler,Right-handed,"Right-arm legbreak",0
+37,3,"Tanzim Hasan Sakib",Bowler,Right-handed,"Right-arm fast-medium",0
+38,4,"Kane Williamson (c)",Batsman,Right-handed,"Right-arm offbreak",1
+39,4,"Devon Conway",Wicketkeeper-Batsman,Left-handed,NULL,0
+40,4,"Trent Boult",Bowler,Right-handed,"Left-arm fast",0
+41,4,"Tim Southee",Bowler,Right-handed,"Right-arm fast-medium",0
+42,4,"Glenn Phillips",Batsman,Right-handed,"Right-arm offbreak",0
+43,4,"Daryl Mitchell",All-rounder,Right-handed,"Right-arm medium",0
+44,4,"Mitchell Santner",All-rounder,Left-handed,"Left-arm orthodox",0
+45,4,"Tom Latham",Wicketkeeper-Batsman,Left-handed,NULL,0
+46,4,"Lockie Ferguson",Bowler,Right-handed,"Right-arm fast",0
+47,4,"Matt Henry",Bowler,Right-handed,"Right-arm fast-medium",0
+48,4,"Ish Sodhi",Bowler,Right-handed,"Right-arm legbreak",0
+49,4,"Finn Allen",Batsman,Right-handed,"Right-arm offbreak",0
+50,4,"Rachin Ravindra",All-rounder,Left-handed,"Left-arm orthodox",0
+51,4,"Will Young",Batsman,Right-handed,"Right-arm offbreak",0
+52,4,"Adam Milne",Bowler,Right-handed,"Right-arm fast",0
+53,4,"Mark Chapman",Batsman,Left-handed,"Slow left-arm orthodox",0
+54,5,"Pat Cummins (c)",Bowler,Right-handed,"Right-arm fast",1
+55,5,"Steve Smith",Batsman,Right-handed,"Right-arm legbreak",0
+56,5,"David Warner",Batsman,Left-handed,"Right-arm legbreak",0
+57,5,"Mitchell Starc",Bowler,Left-handed,"Left-arm fast",0
+58,5,"Josh Hazlewood",Bowler,Left-handed,"Right-arm fast-medium",0
+59,5,"Glenn Maxwell",All-rounder,Right-handed,"Right-arm offbreak",0
+60,5,"Mitchell Marsh",All-rounder,Right-handed,"Right-arm medium",0
+61,5,"Alex Carey",Wicketkeeper-Batsman,Left-handed,NULL,0
+62,5,"Travis Head",Batsman,Left-handed,"Right-arm offbreak",0
+63,5,"Marnus Labuschagne",Batsman,Right-handed,"Right-arm legbreak",0
+64,5,"Adam Zampa",Bowler,Right-handed,"Right-arm legbreak",0
+65,5,"Cameron Green",All-rounder,Right-handed,"Right-arm fast-medium",0
+66,5,"Marcus Stoinis",All-rounder,Right-handed,"Right-arm fast-medium",0
+67,5,"Josh Inglis",Wicketkeeper-Batsman,Right-handed,NULL,0
+68,5,"Sean Abbott",Bowler,Right-handed,"Right-arm fast-medium",0
+69,5,"Nathan Ellis",Bowler,Right-handed,"Right-arm fast-medium",0
+70,6,"Jos Buttler (c)",Wicketkeeper-Batsman,Right-handed,NULL,1
+71,6,"Ben Stokes",All-rounder,Left-handed,"Right-arm fast-medium",0
+72,6,"Joe Root",Batsman,Right-handed,"Right-arm offbreak",0
+73,6,"Jofra Archer",Bowler,Right-handed,"Right-arm fast",0
+74,6,"Mark Wood",Bowler,Right-handed,"Right-arm fast",0
+75,6,"Jonny Bairstow",Wicketkeeper-Batsman,Right-handed,NULL,0
+76,6,"Dawid Malan",Batsman,Left-handed,"Right-arm legbreak",0
+77,6,"Liam Livingstone",All-rounder,Right-handed,"Right-arm offbreak",0
+78,6,"Sam Curran",All-rounder,Left-handed,"Left-arm fast-medium",0
+79,6,"Chris Woakes",All-rounder,Right-handed,"Right-arm fast-medium",0
+80,6,"Adil Rashid",Bowler,Right-handed,"Right-arm legbreak",0
+81,6,"Moeen Ali",All-rounder,Left-handed,"Right-arm offbreak",0
+82,6,"Harry Brook",Batsman,Right-handed,"Right-arm medium",0
+83,6,"Reece Topley",Bowler,Right-handed,"Left-arm fast-medium",0
+84,6,"Gus Atkinson",Bowler,Right-handed,"Right-arm fast",0
+85,6,"Phil Salt",Batsman,Right-handed,NULL,0
+86,8,"Aiden Markram (c)",Batsman,Right-handed,"Right-arm offbreak",1
+87,8,"Quinton de Kock",Wicketkeeper-Batsman,Left-handed,NULL,0
+88,8,"Temba Bavuma",Batsman,Right-handed,NULL,0
+89,8,"Rassie van der Dussen",Batsman,Right-handed,"Right-arm legbreak",0
+90,8,"David Miller",Batsman,Left-handed,"Right-arm offbreak",0
+91,8,"Heinrich Klaasen",Wicketkeeper-Batsman,Right-handed,NULL,0
+92,8,"Marco Jansen",All-rounder,Left-handed,"Left-arm fast-medium",0
+93,8,"Kagiso Rabada",Bowler,Left-handed,"Right-arm fast",0
+94,8,"Anrich Nortje",Bowler,Right-handed,"Right-arm fast",0
+95,8,"Keshav Maharaj",Bowler,Right-handed,"Left-arm orthodox",0
+96,8,"Tabraiz Shamsi",Bowler,Right-handed,"Left-arm wrist spin",0
+97,8,"Lungi Ngidi",Bowler,Right-handed,"Right-arm fast",0
+98,8,"Andile Phehlukwayo",All-rounder,Left-handed,"Right-arm fast-medium",0
+99,8,"Reeza Hendricks",Batsman,Right-handed,"Right-arm offbreak",0
+100,8,"Gerald Coetzee",Bowler,Right-handed,"Right-arm fast",0
+101,8,"Tristan Stubbs",Batsman,Right-handed,"Right-arm offbreak",0
+102,7,"Rashid Khan (c)",Bowler,Right-handed,"Right-arm legbreak",1
+103,7,"Mohammad Nabi",All-rounder,Right-handed,"Right-arm offbreak",0
+104,7,"Rahmanullah Gurbaz",Wicketkeeper-Batsman,Right-handed,NULL,0
+105,7,"Ibrahim Zadran",Batsman,Right-handed,NULL,0
+106,7,"Hashmatullah Shahidi",Batsman,Left-handed,"Right-arm offbreak",0
+107,7,"Azmatullah Omarzai",All-rounder,Right-handed,"Right-arm fast-medium",0
+108,7,"Najibullah Zadran",Batsman,Left-handed,"Right-arm offbreak",0
+109,7,"Mujeeb Ur Rahman",Bowler,Right-handed,"Right-arm offbreak",0
+110,7,"Fazalhaq Farooqi",Bowler,Right-handed,"Left-arm fast-medium",0
+111,7,Naveen-ul-Haq,Bowler,Right-handed,"Right-arm fast-medium",0
+112,7,"Gulbadin Naib",All-rounder,Right-handed,"Right-arm fast-medium",0
+113,7,"Rahmat Shah",Batsman,Right-handed,"Right-arm legbreak",0
+114,7,"Ikram Alikhil",Wicketkeeper-Batsman,Left-handed,NULL,0
+115,7,"Karim Janat",All-rounder,Right-handed,"Right-arm fast-medium",0
+116,7,"Noor Ahmad",Bowler,Right-handed,"Left-arm wrist spin",0
+117,7,"Qais Ahmad",Bowler,Right-handed,"Right-arm legbreak",0

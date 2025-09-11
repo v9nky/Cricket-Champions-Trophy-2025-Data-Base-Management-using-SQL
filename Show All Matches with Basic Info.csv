@@ -1,0 +1,13 @@
+match_number,match_date,match_type,team1,team2,venue_name,start_time
+1,2025-02-19,"Group Stage",Pakistan,"New Zealand","National Stadium",14:30:00
+2,2025-02-20,"Group Stage",Bangladesh,India,"Dubai International Cricket Stadium",14:30:00
+3,2025-02-21,"Group Stage",Afghanistan,"South Africa","National Stadium",14:30:00
+4,2025-02-22,"Group Stage",Australia,England,"Gaddafi Stadium",14:30:00
+5,2025-02-23,"Group Stage",Pakistan,India,"Dubai International Cricket Stadium",14:30:00
+6,2025-02-24,"Group Stage",Bangladesh,"New Zealand","Rawalpindi Cricket Stadium",14:30:00
+7,2025-02-25,"Group Stage",Australia,"South Africa","Rawalpindi Cricket Stadium",14:30:00
+8,2025-02-26,"Group Stage",Afghanistan,England,"Gaddafi Stadium",14:30:00
+9,2025-02-27,"Group Stage",Pakistan,Bangladesh,"Rawalpindi Cricket Stadium",14:30:00
+10,2025-02-28,"Group Stage",Afghanistan,Australia,"Gaddafi Stadium",14:30:00
+11,2025-03-01,"Group Stage","South Africa",England,"National Stadium",14:30:00
+12,2025-03-02,"Group Stage","New Zealand",India,"Dubai International Cricket Stadium",14:30:00

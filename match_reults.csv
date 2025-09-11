@@ -1,0 +1,16 @@
+match_id,team1_score,team1_wickets,team1_overs,team2_score,team2_wickets,team2_overs,toss_winner_id,toss_decision,player_of_match
+1,285,7,50.0,225,10,45.2,4,bat,38
+2,245,8,50.0,246,4,48.1,3,bat,2
+3,198,10,45.3,305,6,50.0,8,bat,87
+4,285,9,50.0,286,5,48.2,6,field,55
+5,275,8,50.0,276,4,48.3,2,bat,1
+6,230,10,49.1,231,5,47.2,4,field,40
+7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+8,265,7,50.0,257,10,49.4,7,bat,102
+9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+10,185,6,35.0,NULL,NULL,NULL,5,field,NULL
+11,295,6,50.0,296,3,47.1,8,bat,86
+12,315,8,50.0,271,10,45.3,4,bat,8
+13,325,6,50.0,326,6,49.2,5,field,2
+14,280,10,49.3,230,10,45.1,8,bat,40
+15,325,7,50.0,326,6,49.1,4,field,1
